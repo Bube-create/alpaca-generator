@@ -1,4 +1,4 @@
-# LAlpaca Generator Website!
+# Alpaca Generator Website!
 
 
 ## Overview
